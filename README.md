@@ -4,7 +4,8 @@
 
 <section>
 <h2></h2>
-http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml9876
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml9876)](https://solved.ac/dlcksgml9876)
 </section>
 
 <h2>Contact!</h2>
