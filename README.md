@@ -1,16 +1,13 @@
-## Hi there 👋
+## CHAN HEE LEE의 Github
+<p>숭실대학교 휴학</p>
+<p>군복무...</p>
 
-<!--
-**chanloveit/chanloveit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section>
+<h2></h2>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml9876)](https://solved.ac/dlcksgml9876/)
+</section>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact!</h2>
+<p>i66517908@gmail.com</p>
+<p>ch20041001@gmail.com</p>
+<p>https://www.instagram.com/dlcks_04/?next=%2F</p>
