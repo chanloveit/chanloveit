@@ -4,7 +4,7 @@
 
 <section>
 <h2></h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml9876
+http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgml9876
 </section>
 
 <h2>Contact!</h2>
